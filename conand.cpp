@@ -15,7 +15,7 @@ string line2 = "SYSTEM_32";
 string line2p1 = "system32";
 string line2p2 = "system_32";
 string line2p3 = "SYSTEM32";
-string input3; of
+string input3;
 
 
 double main() {
